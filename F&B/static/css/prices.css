@@ -1,0 +1,20 @@
+.duvets,
+.featherDuvetAndTwoOr3plyBlankets,
+.lightBlankets,
+.clothesAndOther,
+.dryOnly,
+.stainTreatment,
+.curtains,
+.pillowsAndCushions,
+.jackets,
+.pets {
+    padding: 30px 50px;
+}
+
+h1 {
+    padding-left: 50px;
+}
+
+.headrow {
+    font-size: x-large;
+}
